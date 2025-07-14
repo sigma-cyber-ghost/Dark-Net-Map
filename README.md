@@ -43,6 +43,23 @@ chmod +x darknetmap.sh
 # Generate report  
 ./darknetmap.sh --scan <IP> --report  
 
+### 🎯 **Scanning Example IP (91.185.185.178)**  
+#This sample command who did't understand Networking !
+# Quick scan  
+./darknetmap.sh --scan 91.185.185.178  
+
+# Deep scan (OS/services)  
+./darknetmap.sh --scan 91.185.185.178 --deep  
+
+# Stealth scan (decoy IPs + fragmentation)  
+./darknetmap.sh --scan 91.185.185.178 --evasion --delay 2ms  
+
+# Masscan (all ports, ultra-fast)  
+./darknetmap.sh --scan 91.185.185.178 --masscan  
+
+# Full recon (deep + stealth + report)  
+./darknetmap.sh --scan 91.185.185.178 --deep --evasion --report  
+
 ⚠️ WARNING: DarkNetMap is a network reconnaissance utility created strictly for:
 
   ✔️ Authorized security assessments

@@ -18,7 +18,7 @@
 ### 🚀 **Installation**  
 
 git clone https://github.com/sigma-cyber-ghost/Dark-Net-Map.git  
-cd DarkNetMap  
+cd Dark-Net-Map  
 pip3 install -r requirements.txt
 
 # Linux (Debian/Ubuntu)

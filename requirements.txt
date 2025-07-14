@@ -1,0 +1,12 @@
+python-nmap==0.7.1
+scapy==2.5.0
+psutil==5.9.5
+requests==2.31.0
+graphviz==0.20.1
+pygraphviz==1.12
+python-libcaca==0.99.beta19
+pandas==2.1.4
+pyfiglet==0.8.post1
+termcolor==2.3.0
+python-masscan==0.7.5.1
+python-fping==0.0.3

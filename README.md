@@ -44,7 +44,7 @@ chmod +x darknetmap.sh
 ./darknetmap.sh --scan <IP> --report  
 
 ### 🎯 **Scanning Example IP (91.185.185.178)**  
-#This sample command who did't understand Networking !
+# These sample commands are for users with limited networking knowledge, allowing them to use the tool effectively without deep technical expertise.
 # Quick scan  
 ./darknetmap.sh --scan 91.185.185.178  
 
